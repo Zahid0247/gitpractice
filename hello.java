@@ -2,6 +2,6 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello this is the change from local”);
+System.out.println(“hello change from remote”);
 }
 }
